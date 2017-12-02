@@ -48,13 +48,13 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I will be using Python 3 for the HackerRank pre work. However, I already had 3 installed and have a separate environment created for 2.7 for other projects.
 
 ### Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+If you type ```python``` into the command then you will get the current python install. So my current version is 3.5.3.
 
  
 
